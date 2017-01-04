@@ -1,0 +1,7 @@
+#Wed Jan 04 19:37:55 CST 2017
+base.0=/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7e9e94bf4c988b1958b61ea92c5f14802fab732
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b2b1121c5e2651584f30d01e9e89dd8d2126e320/classes.dex
+base.1=/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b2b1121c5e2651584f30d01e9e89dd8d2126e320
+file.0=/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f7e9e94bf4c988b1958b61ea92c5f14802fab732/classes.dex

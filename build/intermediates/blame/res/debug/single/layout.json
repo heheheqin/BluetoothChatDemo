@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/layout/bluetooth_list_item.xml",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/layout/bluetooth_list_item.xml"
+    },
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/layout/activity_chat.xml"
+    }
+]

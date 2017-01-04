@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/drawable-hdpi/computer.png",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/drawable-hdpi/computer.png"
+    },
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/drawable-hdpi/wearable.png",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/drawable-hdpi/wearable.png"
+    },
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/drawable-hdpi/phone.png",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/drawable-hdpi/phone.png"
+    },
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/drawable-hdpi/health.png",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/drawable-hdpi/health.png"
+    },
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/drawable-hdpi/game.png",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/drawable-hdpi/game.png"
+    },
+    {
+        "merged": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/build/intermediates/res/merged/debug/drawable-hdpi/headset.png",
+        "source": "/Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/res/drawable-hdpi/headset.png"
+    }
+]

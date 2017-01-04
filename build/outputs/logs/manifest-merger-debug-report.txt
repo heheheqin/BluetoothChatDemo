@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:3:5-36
+	android:versionName
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml
+		INJECTED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml
+		INJECTED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:12:22-71
+application
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:14:5-29:19
+	android:label
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:18:9-40
+activity#com.example.bluetooth.MainActivity
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:25:27-74
+activity#com.example.bluetooth.ChatActivity
+ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:28:9-59
+	android:name
+		ADDED from /Users/jan/AndroidStudioProjects/HighLevel/BluetoothDemo/AndroidManifest.xml:28:19-47
